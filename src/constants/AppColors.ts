@@ -1,5 +1,5 @@
-const AppColors =  {
-    primary: '#ff'
-}
+const AppColors = {
+  primary: "#ff",
+};
 
 export default AppColors;
